@@ -211,7 +211,7 @@ export default function DesignPortfolio() {
       <section className="py-20 px-4 text-center bg-gradient-to-br from-primary/10 via-background to-secondary/10">
         <div className="container max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            Creative Design Solutions
+            Tired of Ugly? We're Here to Make Your Brand Hot Again.
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             We transform your ideas into stunning visual experiences. From brand identity to digital design, we craft
