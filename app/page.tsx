@@ -210,7 +210,7 @@ export default function DesignPortfolio() {
       {/* Hero Section */}
       <section className="py-20 px-4 text-center bg-gradient-to-br from-primary/10 via-background to-secondary/10">
         <div className="container max-w-4xl mx-auto">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+          <h1 className="text-4xl md:text-6xl font-bold mb-6 text-black bg-clip-text">
             Tired of Ugly? We're Here to Make Your Brand Hot Again.
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
